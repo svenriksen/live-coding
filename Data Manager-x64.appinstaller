@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AppInstaller Uri="https://raw.githubusercontent.com/svenriksen/live-coding/main/Data%20Manager-x64.appinstaller" Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+  <MainPackage Name="DuThinh.DataManager" Version="1.0.0.0" Publisher="CN=Du Thinh" Uri="https://raw.githubusercontent.com/svenriksen/live-coding/main/Data%20Manager-x64.msix" ProcessorArchitecture="x64"/>
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0"/>
+    <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+  </UpdateSettings>
+</AppInstaller>
