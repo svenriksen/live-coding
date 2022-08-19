@@ -3,5 +3,6 @@
     "description": ["Bug fixed","Added more things"],
     "version": "1.0.3",
     "author": "",
-    "windows_file_name": "datamanager.appinstaller"
+    "windows_file_name": "datamanager.appinstaller",
+    "windows_msix": "datamanager_1.0.1.0.msix",
 }
