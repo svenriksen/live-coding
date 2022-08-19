@@ -1,6 +1,6 @@
 {
     "name": "Data Manager",
-    "description": "Wait what",
+    "description": ["Bug fixed","Added more things"]
     "version": "1.0.3",
     "author": "",
     "windows_file_name": "installer/windows/mysetup.exe"
