@@ -1,8 +1,8 @@
 {
     "name": "Data Manager",
-    "description": ["Bug fixed","Added more things"],
-    "version": "1.0.5",
+    "description": ["Auto restart", "Stay tuned for more"],
+    "version": "1.0.6",
     "author": "Kai",
     "windows_file_name": "datamanager.appinstaller",
-    "windows_msix": "versions/datamanager_1.0.5.0.msix"
+    "windows_msix": "versions/datamanager_1.0.6.0.msix"
 }
