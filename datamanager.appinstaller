@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
   <AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
-    Uri="D:\duthinh\Data-Manager-Flutter\custom_build/datamanager.appinstaller" Version="1.0.7.0">
-    <MainPackage Name="company.suite.flutterapp" Version="1.0.7.0"
+    Uri="D:\duthinh\Data-Manager-Flutter\custom_build/datamanager.appinstaller" Version="1.0.8.0">
+    <MainPackage Name="company.suite.flutterapp" Version="1.0.8.0"
       Publisher="E=trannguyensinh2004@gmail.com, CN=Kai, O=Du Thinh, L=Ho Chi Minh, S=Ho Chi Minh, C=VN"
-      Uri="D:\duthinh\Data-Manager-Flutter\custom_build/versions/datamanager_1.0.7.0.msix"
+      Uri="D:\duthinh\Data-Manager-Flutter\custom_build/versions/datamanager_1.0.8.0.msix"
       ProcessorArchitecture="x64" />
     <UpdateSettings>
       <OnLaunch HoursBetweenUpdateChecks="0" 
