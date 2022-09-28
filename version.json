@@ -1,8 +1,8 @@
 {
     "name": "Data Manager",
     "description": ["Autocomplete", "Adding keywords", "Final fix for auto update"],
-    "version": "1.0.11.0",
+    "version": "1.0.12.0",
     "author": "Kai",
     "windows_file_name": "datamanager.appinstaller",
-    "windows_msix": "versions/datamanager_1.0.11.0.msix"
+    "windows_msix": "versions/datamanager_1.0.12.0.msix"
 }
